@@ -1,2 +1,2 @@
 # MSOpenHack-JS
-V2.0
+V3.0
